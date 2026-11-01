@@ -1,0 +1,11 @@
+[MAIN]
+max-line-length=100
+
+[DESIGN]
+max-locals=20
+max-args=8
+max-positional-arguments=8
+min-public-methods=1
+
+[SIMILARITIES]
+min-similarity-lines=15
